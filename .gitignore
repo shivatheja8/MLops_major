@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+*.pyc
+savedmodel.pth
+uploads/
+.DS_Store
